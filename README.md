@@ -195,7 +195,7 @@ During the second and third month, we'll travel to Costa Rica, Guyana, Granada, 
 
   
 
-We were going to charge $30,000 per person for this training program, but instead if we can successfully raise $1 million we'll be able to pay all our founding team $1,000 per month for 7-months starting January 2024 while also paying for all your food, accommodations, travel and other costs.
+We were going to charge $30,000 per person for this training program, but instead if we can successfully raise $500,000 we'll be able to pay all our founding team $1,000 per month for 7-months starting January 2024 while also paying for all your food, accommodations, travel and other costs, providing you with a world-class in-person training experience.
 
   
 
