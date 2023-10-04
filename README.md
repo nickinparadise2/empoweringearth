@@ -163,11 +163,11 @@ We're open to any and all applicants with a deadline of October 31st, 2023, sele
 
   
 
-Apply as soon as possible. Applications are being reviewed as received and more than half the team will be selected before the deadline.
+** Apply as soon as possible. Applications are being reviewed as received and more than half the team will be selected before the deadline.**
 
   
 
-If you are selected as a Co-Founder, you'll spend 3-months in person at a training program called "How to Change the World at **Scale**: Merging AI and Permaculture Paradigms with a Focus on Small Developing States in the Caribbean", an empowering and immersive program designed to equip you with the knowledge, skills, and mindset needed to become a catalyst for positive change in the world at scale. Throughout this comprehensive journey through four tropical countries, we will delve deep into the intersection of artificial intelligence, social entrepreneurship, the human mind, and nature, harnessing their combined power to create a brighter and more sustainable future for all. We'll move quickly from theory to action, with half your time in training and learning mode, and half your time in building this enterprise. We're packing 1350 hours of life-changing experiences into 90 days.
+If you are selected as a Co-Founder, you'll spend 3-months in person at a training program called **"How to Change the World at SCALE: Merging AI and Permaculture Paradigms with a Focus on Small Developing States in the Caribbean"**, an empowering and immersive program designed to equip you with the knowledge, skills, and mindset needed to become a catalyst for positive change in the world at scale. Throughout this comprehensive journey through four tropical countries, we will delve deep into the intersection of artificial intelligence, social entrepreneurship, the human mind, and nature, harnessing their combined power to create a brighter and more sustainable future for all. We'll move quickly from theory to action, with half your time in training and learning mode, and half your time in building this enterprise. We're packing 1350 hours of life-changing experiences into 90 days.
 
   
 
