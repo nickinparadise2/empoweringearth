@@ -1,4 +1,33 @@
-# Training Program Curriculum
+# Apply to be a Co-Founder of The Empowering Earth Institute!
+**We're looking to find 30 Co-Founders to join in this high impactful project!**
+
+We're open to any and all applicants with a deadline of October 31st, 2023, selections finalized by November 7th, and our 3-month intensive training beginning January 3rd, 2024. Apply as soon as possible. Applications are being reviewed as received, with calls being scheduled with eligible candidates within 5-days.
+
+**Apply as soon as possible. Applications are being reviewed as received and more than half the team will be selected before the deadline.**
+
+If you are selected as a Co-Founder, you'll spend 3-months in person at a training program called "How to Change the World at **Scale**: Merging AI and Permaculture Paradigms with a Focus on Small Developing States in the Caribbean", an empowering and immersive program designed to equip you with the knowledge, skills, and mindset needed to become a catalyst for positive change in the world at scale. Throughout this comprehensive journey through four tropical countries, we will delve deep into the intersection of artificial intelligence, social entrepreneurship, the human mind, and nature, harnessing their combined power to create a brighter and more sustainable future for all. We'll move quickly from theory to action, with half your time in training and learning mode, and half your time in building this enterprise. We're packing 1350 hours of life-changing experiences into 90 days.
+
+This training program is a holistic fusion of diverse disciplines, blending the intensity of a military boot camp, the wisdom of permaculture and yoga practices, the entrepreneurial spirit of a startup incubator, the intensity of a hackathon, and the compassion of the peace corps. Furthermore, it incorporates the resilience of disaster response, the creativity of ecovillage design, and the power of cutting-edge artificial intelligence, all committed to shaping a better self and a better world at a national level.
+
+Half your training will be spent in training and learning mode, and half your time will be dedicated to building this enterprise.
+
+In the first month, you'll spend a month in residency on Ometepe Island, Nicaragua, a world biosphere reserve with two volcanoes, establishing the foundations of inner work, external changemaking, and our team dynamics. Enjoy rainforests and beaches, ecovillages and conscious communities, ancient petroglyphs, and more than a dozen permaculture inspired sites.
+
+By the third week, you and your fellow students will begin building The Empowering Earth Institute, The Intelligent Company, TalkToGrandma.com, and other ventures.
+
+We'll work together as a team to make dreams a reality, similar to a tech incubation program, and utilize tools like AutoGPT to build and scale the organization, providing the participant with a long-term source of income.
+
+During the second and third month, we'll travel to Costa Rica, Guyana, Granada, the Cayman Islands, and potentially others to explore more rainforests, beaches, and examples of sustainable development and ecotourism, and begin scoping out our physical expansion plans.
+
+We were going to charge $30,000 per person for this training program, but instead if we can successfully raise $1 million we'll be able to pay all our founding team $1,000 per month for 7-months starting January 2024 while also paying for all your food, accommodations, travel and other costs.
+
+After completing this 3-month intensive training and enterprise building you will emerge as a confident and conscious innovator, ready to take on the world's most pressing challenges with resilience, compassion, and intelligence. Armed with an unparalleled set of tools, you will be an agent of change, dedicated to creating a sustainable and harmonious world for present and future generations. By becoming a member of the tribe, a co-founder of this amazing project, you join a global community of changemakers united by the shared vision of a thriving and equitable planet.
+
+## Beyond Training Completion March 2023
+After the training program, we expect we'll move country to country as teams, establishing physical training centers in all our target countries along with our local staff. We could potentially have 25 physical permaculture designed ecovillage training facilities powered by AI setup by the end of 2024. Alternatively, you could continue to work remotely on the project from anywhere in the world, potentially running a national team with staff.
+
+
+## Training Program Curriculum
 
 This comprehensive curriculum delves deep into a myriad of transformative subjects.
 
