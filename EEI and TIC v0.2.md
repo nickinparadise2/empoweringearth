@@ -1,6 +1,6 @@
 **
 
-###### **One Page Summary:**
+**One Page Summary:**
 The Empowering Earth Institute’s inaugural project, The Intelligent Company, is an AI consultancy and training professional services entity that targets global developing economies and global social good organizations. The primary offering is education, training and consultancy, equipping individuals and organizations in developing countries to harness existing AI tools to further their objectives. We will also provide bespoke AI solutions tailored to specific needs, such as AI chatbots for education or computer vision systems for agriculture. The overarching mission is to bridge the digital divide, empowering the vast majority at the socioeconomic base with existing AI tools and other potent technologies to achieve the UN’s Sustainable Development Goals (SDGs). The vision is grand – to emerge as the leading AI consultancy and training hub in all developing regions, simultaneously offering training and employment to curb brain drain and foster sustainable capacity.
 
 The Empowering Earth Institute (EEI) is a new pioneering global entity dedicated to fostering positive change through education in diverse fields such as artificial intelligence, permaculture design, sustainability, consciousness, and social entrepreneurship. With the rapid advancements in technology, the world now possesses the tools to address its most pressing challenges. However, the real task lies in securing the social adoption, appropriate frameworks, and funding to scale these solutions and reach the vast majority at the base of the socioeconomic pyramid. By disseminating both cutting-edge technologies like AI and foundational ones like restorative agriculture, EEI aims to bolster organizations committed to social and environmental welfare. The goal is to accelerate the adoption of these technologies in developing nations, enabling them to transition into the 4th industrial revolution.
@@ -29,6 +29,8 @@ The Intelligent Company's core offering is providing training and consulting to 
 Our secondary offering is to configure more advanced solutions, such as customized AI solutions for agriculture and education. For example, we can implement conversational AI chatbots to provide interactive learning for students in remote regions. Or they could apply computer vision systems to analyze crop data and provide actionable insights to farmers. The key is pairing the right technologies with each organization's unique goals.
 
 Rather than reinventing the wheel, The Intelligent Company will focus on democratizing access to readily available AI innovations. We'll then quickly develop and deploy our own autonomous AI agents and other technologies.
+
+By operating primarily out of developing countries, using the best of local talent and recruiting from the diaspora, we can deliver services for as little as $5-$15/hour with the potential to charge $200/hour or more. Our world class autonomous AI agent and our automated grant application
 ## Mission
 Empower developing nations by bridging the digital divide and enabling the 7-billion people at the base of the socioeconomic pyramid by providing them with AI tools and other powerful technologies to achieve the Sustainable Development Goals (SDGs).
 ## Vision
@@ -52,6 +54,8 @@ We also offer **hourly training and consulting** at competitive rates, as our co
 
 For **custom solutions**, we provide project-based quotes based on effort and technology. Clients pay fixed fees tied to each phase of development, allowing for predictable budgeting. Our rates for custom AI development are discounted given our focus on social impact.
 
+We're developing our first **in-house project**, a world-class Autonomous AI Agent named Jane, built on the best practices of AutoGPT and Autogen and using Github's ticketing system to transparently manage all its activities, allow human feedback and monitoring. It will allow our clients to do things like automatically identify every funding opportunity published anywhere online, immediately drafting grant applications, and automate the writing of any type of report writing, whether financial updates, annual reports, or monthly updates. This multi-modal system will put the power of AGI in the hands of the people who can do the most good with it.
+
 Our nonprofit and government clients can access even lower rates through our social good pricing program. We are committed to making AI accessible by reducing financial barriers and will seek grants from international donors to scale our reach.
 
 This diversified model maximizes flexibility in serving organizations across the Caribbean. We can accommodate limited budgets while still generating sustainable revenue to fulfill our mission. The Intelligent Company aims to strike the perfect balance between affordability and viability. Our success will enable us to continue empowering clients with AI.
@@ -67,6 +71,16 @@ Our core differentiators include:
 - **Developing World Focus**: Our entire model centers on expanding access in overlooked developing markets. Competitors remain focused on industrialized nations.
 
 This positioning provides tremendous competitive advantage. Clients get high-value services tailored to their specific needs and budget realities. We remove all barriers standing between developing communities and the benefits of AI. This laser focus on inclusive development allows The Intelligent Company to stand out as a transformative force.
+
+## First Products
+### Autonomous AI Agent
+Our first **in-house project** is a world-class Autonomous AI Agent named Jane, built on the best practices of AutoGPT and Autogen and using Github's ticketing system to transparently manage all its activities, allow human feedback and monitoring.  This multi-modal agent system will put the power of AGI in the hands of the people who can do the most good with it, designed specifically for the use cases of social good organizations. It'll be like giving all your staff a team of assistants capable of operating 24/7/365, each with a different persona such as auditor or engineer, that are able to use any application on their behalf.
+
+It will allow our clients to do things like automatically identify every funding opportunity published anywhere online, immediately drafting grant applications, and automate the writing of any type of report writing, whether financial updates, annual reports, or monthly updates.
+##### Automated Grant Writing Agent
+Our first use case is automating the process of identifying potential funding opportunities, identifying partners to help implement projects with, and drafting grant applications for staff review, editing, and finalization
+#### Automated Report Writing Agent
+This agent will be able to autonomously access all historical reports, current data and human input, and automate the drafting of reports, whether they are project updates, financial reports, media reviews, research, or others. Various AI agents acting with personas such as project manager, innovation manager, sustainability manager, ethics manager, issue expert, monitoring and evaluation expert, donor manager, and community engagement expert will transparently work together to develop the reports, with all documentation of their interactions available for audit.
 ## Scaling the Impact
 The Intelligent Company has an ambitious vision for growth and maximizing our impact over time. We aim to scale our staff, facilities, and geographic reach rapidly, with a goal to have a presence in all 251 countries and territories.
 
