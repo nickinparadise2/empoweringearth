@@ -20,15 +20,17 @@ We must work on ourselves first and foremost before we can change anything outsi
 Core to EEI's strategy is establishing Innovation and Training Hubs in each country it operates in to bring together trainers and experts on our core themes of artificial intelligence, permaculture design, sustainability, consciousness, and social entrepreneurship, and provide a demonstrate site for physical projects such as regenerative agricultural, syntropic forestry, natural home building, augmented reality, autonomous drones and more. They will have the capacity to act as mini-Universities, developing in-person trainings at scall and providing co-working space for our team and other social good organizations. These permaculture designed ecovillages will emphasize the **show don't tell** philosophy of **demonstrating** the best practices of sustainable solutions.
 
 # The Intelligent Company
-EEI's first project, The Intelligent Company, is our AI consultancy and training company. We'll focus first on two audiences - global social good organizations, and both public and private organizations in the Caribbean.
+EEI's first project, The Intelligent Company, is our consultancy and training professional services company focused on the *application* of artificial intelligence tools for social good. 
+
+We'll focus first on global social good organizations, and organizations in the Caribbean.
 
 The Intelligent Company's core offering is providing training and consulting to help organizations in developing nations successfully leverage existing AI tools to further their mission. For example, there are already amazing no-code off-the-shelf tools for content generation, grant writing and management, project management, translation, hiring, data analysis and more.
 
-Our secondary offering is to configure more advanced solutions, such as customized AI solutions for agriculture and education. For example, we can implement conversational AI chatbots to provide interactive learning for students in remote regions. Or they could apply computer vision systems to analyze crop data and provide actionable insights to farmers. The key is pairing the right technologies with each organization's unique goals.
+Our secondary offering is to configure more advanced solutions, such as customized AI solutions for agriculture, education and non-profit management. For example, we can implement conversational AI chatbots to provide interactive learning for students in remote regions. Or we could apply computer vision systems to analyze crop data and provide actionable insights to farmers. They could also deploy our autonomous AI agent, Jane, to act as a virtual support team of agents to support the work of each and every human staff member. The key is pairing the right technologies with each organization's unique goals.
 
 Rather than reinventing the wheel, The Intelligent Company will focus on democratizing access to readily available AI innovations. We'll then quickly develop and deploy our own autonomous AI agents and other technologies.
 
-By operating primarily out of developing countries, using the best of local talent and recruiting from the diaspora, we can deliver services for as little as $5-$15/hour with the potential to charge $200/hour or more. Our world class autonomous AI agent and our automated grant application
+By operating primarily out of developing countries, using the best of local talent and recruiting from the diaspora, we can deliver services for as little as $5-$15/hour with the potential to charge $200/hour or more. Our world class autonomous AI agent and our automated grant application tool provide massive diversified income and impact potential.
 ## Mission
 Empower developing nations by bridging the digital divide and enabling the 7-billion people at the base of the socioeconomic pyramid by providing them with AI tools and other powerful technologies to achieve the Sustainable Development Goals (SDGs).
 ## Vision
@@ -40,10 +42,10 @@ Our **training** empowers clients to leverage existing no-code AI tools. We offe
 
 **Consulting** helps clients formulate an AI strategy and roadmap. Our consultants assess current workflows, identify high-potential AI applications, and provide guidance on ethical risks/mitigation. We help clients pilot solutions, analyze results, and scale successes. This hands-on guidance maximizes ROI from AI investments.
 
-For clients with advanced needs, we offer **custom solution development**. Our team builds bespoke AI tools like chatbots, predictive models, and computer vision applications. We handle data preparation, model development/training, and deployment. Custom solutions deliver transformative capabilities aligned to each organization's unique objectives.
+For clients with advanced needs, we offer **custom solution development**. Our team builds bespoke AI tools like chatbots, predictive models, autonomous AI agents, and computer vision applications. We handle the full spectrum of implementation from needs and solutions identification to implementation, training, coaching and improvements. Custom solutions deliver transformative capabilities aligned to each organization's unique objectives.
 
-Across all services, our focus on sustainability and developing world contexts sets us apart. We only recommend ethical, socially-conscious applications of AI, with a love of Free Open Source Solutions (FOSS). Our affordable rates open the door to underserved organizations. With comprehensive offerings and specialized expertise, The Intelligent Company is the AI partner the Caribbean needs.
-# Business Model
+Across all services, our focus on sustainability and developing world contexts sets us apart. We only recommend ethical, socially-conscious applications of AI, with a love of Free Open Source Solutions (FOSS). Our affordable rates open the door to underserved organizations. With comprehensive offerings and specialized expertise, The Intelligent Company is the AI partner the developing world needs.
+## Business Model
 The Intelligent Company utilizes a blended revenue model to make our AI training and consulting affordable and accessible. This includes subscriptions, hourly fees, and project-based billing.
 
 Our **subscription model** offers multi-month access to training courses and support. For a monthly fee, clients gain unlimited access to our virtual curriculum and instructor guidance. Subscriptions allow organizations to cost-effectively build in-house AI expertise over time.
@@ -57,7 +59,20 @@ We're developing our first **in-house project**, a world-class Autonomous AI Age
 Our nonprofit and government clients can access even lower rates through our social good pricing program. We are committed to making AI accessible by reducing financial barriers and will seek grants from international donors to scale our reach.
 
 This diversified model maximizes flexibility in serving organizations across the Caribbean. We can accommodate limited budgets while still generating sustainable revenue to fulfill our mission. The Intelligent Company aims to strike the perfect balance between affordability and viability. Our success will enable us to continue empowering clients with AI.
-# Competitive Differentiation
+
+## Financial Model
+We are seeking $1.5 million dollars in funding for The Intelligent Company:
+- $500k for 3-months of training and development for a core team of 30 experts, managers, and staff.
+- $500k to hire and train 100 trainers across the Caribbean at an average cost of $1,500 per month.
+- $500k to establish physical training centers in Guyana and the Cayman Islands.
+
+This plan will give us a 7-month runway to get to cash flow positivity at which point our burn rate will be approximately $250k per month.
+
+Assuming training staff are trainers capable of delivering 100 hours of training per month, this team could potentially deliver 10,000 hours of training per month at an estimated $100 per hour for monthly revenue of $1m per month. Profitability should occur in the first month of providing trainings in month 5 of the plan.
+
+This is without revenue from retainer or subscription fees, custom solutions, grants, the autonomous AI agent, affiliate revenue, and other potential revenue streams.
+
+## Competitive Differentiation
 The Intelligent Company stands apart from competitors through our exclusive focus on bringing AI tools to organizations in developing countries to advance sustainability and social impact. Most technology firms target corporate clients in high-income markets who can pay premium rates. But we turn our attention where tech access is needed most.
 
 Our core differentiators include:
