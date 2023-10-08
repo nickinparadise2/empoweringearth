@@ -70,7 +70,7 @@ This positioning provides tremendous competitive advantage. Clients get high-val
 ## Scaling the Impact
 The Intelligent Company has an ambitious vision for growth and maximizing our impact over time. We aim to scale our staff, facilities, and geographic reach rapidly, with a goal to have a presence in all 251 countries and territories.
 
-Our hiring plan involves exponentially increasing our team over the next 3 years. We'll hire additional consultants and support staff across technology, sustainability, and business domains. Our remote work model allows recruiting top talent worldwide. We aim to have over 1,000 team members across at least 200 countries and territories within 3 years.
+Our hiring plan involves exponentially increasing our team over the next 3 years. We'll hire additional consultants and support staff across technology, sustainability, and business domains. Our remote work model allows recruiting top talent worldwide. We aim to have over 5,000 team members across at least 200 countries and territories within 3 years.
 
 We'll establish local training facilities in each country we operate in. They will provide an in-person collaboration hub, co-working space for team members, and a site for delivering in-person workshops. We target opening 2 facilities, in Guyana and Cayman Islands, in our first phase, followed by the next smallest 23 countries and territories in the Caribbean, followed 25 new facilities per year as we expand to new developing countries.
 
