@@ -3,13 +3,14 @@
 ## 1. Introduction
 - **Founder & CEO**: Nick Brown
 - **Background**: 20-year veteran of social change work, involved in seven startups, leader of two startups, key player in two large M&As and one IPO.
-- **Key Skills**: Disaster Response, Emergency Management, Data Science, Entrepreneurship, Leadership
+- **Key Skills**: Disaster Response, Emergency Management, Data Science, Entrepreneurship, Leadership, Scaling Social Change
 - https://linkedin.com/in/nickinparadise
 
 ## 1.2 Introduction (cont)
-- **Highlighted Titles**:
+- **Highlighted Roles**:
 	- Executive Director of Disaster Response Agency;
 	- Chief Data Scientist for ESG Analytics Firm;
+	- Head of the Information Management Unit for IOM Afghanistan, the country's largest UN tech team
 	- Global Head of Sustainability Analytics for World's Largest ESG and Risk Team (RiskMetrics, now MSCI); and,
 	- Trustee on the Brock University Board of Trustees.
 - **Highlighted Accomplishments:**
