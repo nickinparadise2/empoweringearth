@@ -2,11 +2,11 @@
 
 ## 1. Introduction
 - **Founder & CEO**: Nick Brown
-- **Background**: 20-year veteran of social change work, involved in seven startups, leader of two startups, key player in two large M&As and one IPO.
+- **Background**: 20-year veteran of entrepreneurship and social change work, involved in seven startups, leader of two startups, key player in two large M&As and one IPO. 15-years working at the frontlines in developing countries.
 - **Key Skills**: Disaster Response, Emergency Management, Data Science, Entrepreneurship, Leadership, Scaling Social Change
 - https://linkedin.com/in/nickinparadise
 
-## 1.2 Introduction (cont)
+## 1 Introduction (continued)
 - **Highlighted Roles**:
 	- Executive Director of Disaster Response Agency;
 	- Chief Data Scientist for ESG Analytics Firm;
