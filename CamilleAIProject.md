@@ -16,9 +16,10 @@ The Camille Academy's AI Project aims to position the academy as a leading insti
 1. **Teacher Training Program:**
     - 120 teachers trained in basic AI tools over a 12-week period, with 1-hour weekly sessions.
     - Topics: AI basics, prompt engineering, educational AI tools, digital literacy, and pedagogical integration of AI.
+    - Focused on Prompt Engineering for LLMs like ChatGPT, Bard, Perplexity, and Mistral, and 5 additional tools.
 2. **Intermediate Training Program:**
     - 8-16 teachers receiving 4 hours of advanced training weekly for 12 weeks.
-    - Topics: more advanced curriculum focusing on AI tool adoption, social engineering, and AI leadership
+    - Topics: more advanced curriculum focusing on AI tool adoption and more advanced use of tools.
 3. **AI4Education Conference:**
     - A 2-day event bringing together educators, students, AI experts and policy makers.
     - Workshops, speaker sessions, and panel discussions on AI in education.
