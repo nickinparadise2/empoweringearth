@@ -1,9 +1,9 @@
-## Project Concept: Camille Academy's AI Project
+# Project Concept: Camille Academy's AI Project
 
-### Overview
-The Camille Academy's AI Project aims to position the academy as a leading institution in the Caribbean for integrating Artificial Intelligence into education. Building on the success of Guyana's first AI4Development conference, this project will not only enhance the educational experience but also align with the broader goals of fostering sustainable and tech-driven development in Guyana.
+## Overview
+The Camille Academy's AI Project aims to position the academy as a leading institution in the Caribbean for integrating Artificial Intelligence into education. Building on the success of Guyana's first AI4Development (https://www.ai4devevent.org) conference, this project will not only enhance the educational experience but also align with the broader goals of fostering sustainable and tech-driven development in Guyana.
 
-### Objectives
+## Objectives
 1. **Development and Adoption:** Position Camille Academy as a pioneering institution in the Caribbean for the adoption of AI in education.
 2. **Teacher Training:** Equip 120 teachers with AI tools to enhance educational efficiency and effectiveness.
 3. **Advanced Training for Selected Teachers:** Provide in-depth AI knowledge and application skills to a select group of 8-16 teachers.
@@ -12,7 +12,7 @@ The Camille Academy's AI Project aims to position the academy as a leading insti
 6. **Project Management:** Implement a project management system (Monday.com, ClickUp or Trello) to ensure smooth execution and monitoring of the project.
 7. **AI Prompt Library:** Develop a Prompt Library using Prompt Hub (https://www.prompthub.us) for educators
 
-### Outcomes
+## Outcomes
 1. **Teacher Training Program:**
     - 120 teachers trained in basic AI tools over a 12-week period, with 1-hour weekly sessions.
     - Topics: AI basics, prompt engineering, educational AI tools, digital literacy, and pedagogical integration of AI.
@@ -34,7 +34,7 @@ The Camille Academy's AI Project aims to position the academy as a leading insti
     - Features: Task tracking, progress monitoring, resource allocation, and communication channels.
 7. **Prompt Library:**
 	- Establish a prompt library for educators using Prompt Hub
-### Implementation Strategy
+## Implementation Strategy
 1. **Curriculum Development and Staffing:**
     - Nick will provide the curriculum for the conference and trainings.
 2. **Partnerships and Funding:**
@@ -55,14 +55,14 @@ The Camille Academy's AI Project aims to position the academy as a leading insti
 
 This project aligns with the mission of revolutionizing developing countries with AI and sustainable practices, contributing significantly to the educational landscape in Guyana and setting a precedent for the Caribbean region.
 
-### 2-Day AI4Education Conference Plan: Camille Academy's AI Project (DRAFT)
+## 2-Day AI4Education Conference Plan: Camille Academy's AI Project (DRAFT)
 
-#### Overview
+### Overview
 This 2-day conference is designed to cater to educators and students, showcasing the transformative power of AI in education. The first day is dedicated to educators, focusing on training, knowledge sharing, and networking. The second day is tailored for students, emphasizing engagement, inspiration, and practical AI experiences.
 
 This conference will be a landmark event in the Caribbean, significantly contributing to the AI education landscape and aligning with the vision of leveraging AI for sustainable development and social change.
 
-#### Day 1: Educators' Empowerment Day
+### Day 1: Educators' Empowerment Day
 **Theme**: "Integrating AI in Education: Building Future-Ready Classrooms"
 
 **Objective**: Equip educators with knowledge, tools, and inspiration to integrate AI into their teaching methods effectively.
@@ -92,7 +92,7 @@ This conference will be a landmark event in the Caribbean, significantly contrib
 **All-Day AI Implementation Consultations**:
 - Offer personalized consultation booths where Camille Academy educators can receive tailored advice on implementing AI tools in their classrooms, led by the teachers enrolled in the "advanced" training.
 
-#### Day 2: Students' Innovation Day
+### Day 2: Students' Innovation Day
 **Theme**: "AI for You: Exploring and Shaping the Future"
 
 **Objective**: Ignite students' interest and creativity in AI, showcasing its potential for learning and encouraging hands-on involvement.
@@ -123,36 +123,36 @@ This conference will be a landmark event in the Caribbean, significantly contrib
     - Recognition of outstanding projects and contributions
     - Networking and celebration with music and refreshments
 
-#### Additional Highlights
+### Additional Highlights
 - **Virtual Participation**: Offer live streaming and virtual interaction for remote attendees, allowing us to reach hundreds if not thousands of students and educators.
 - **Sustainability Focus**: Ensure all materials and operations adhere to sustainable practices.
 - **Cultural Sensitivity**: Incorporate local cultural elements to make the conference relatable and engaging.
 
-#### Logistics
+### Logistics
 - **Venue**: Ramada Georgetown with capacity for ####?.
 - **Tech Setup**: High-quality AV systems, live streaming capabilities, and AI demo stations.
 - **Promotion**: Utilize social media, local media, direct email, and educational networks for widespread awareness.
 
-#### Post-Conference
+### Post-Conference
 - **Feedback Collection**: Gather insights from participants to improve future events using an AI tool.
 - **Documentation**: Record sessions and make them available online for further learning.
 - **Follow-Up**: Regular updates and resources sharing via an established community platform.
 - **Engagement in Discord Community**: Funnel all participants into our Discord to community to develop long-term engagement.
 
-#### Enhanced Features
+### Enhanced Features
 - **AI Mentor Match-Up**: Launch a program where students can sign up to be paired with AI professionals for ongoing mentorship.
 - **Interactive Tech Zones**: Throughout the venue, have areas where students can interact with the latest AI technologies like VR, robotics, and smart devices.
 - **Student Innovation Awards**: Recognize and award the most innovative student projects or ideas presented during the conference.
 - **Sustainability Corner**: Highlight AI's role in sustainable development, aligning with the broader goals of Nick’s mission.
 - **Virtual Reality Experience**: Offer VR experiences that illustrate the potential of AI in various fields like healthcare, space exploration, and environmental conservation.
 
-#### Logistics and Promotion
+## Logistics and Promotion
 - **Social Media Engagement**: Use platforms popular among students for promotion, involving influencers and creating engaging content like countdowns, quizzes, and sneak peeks.
 - **Live Streaming and Interactive Features**: Ensure remote participation is immersive, with options for online attendees to interact and participate in real-time.
 - **Follow-up Engagement**: Post-conference, maintain engagement through online Discord platform, sharing resources, updates, and opportunities in AI.
 - **Policy Maker Engagement:** Invite development agencies, the United Nations, and Caribbean Ministries of Education to send attendees.
 
-### Potential Sponsors
+## Potential Sponsors
 - United Nations Country Office, UNESCO, IDB, CDB, and World Bank
 - CARICOM
 - Ministries of Education throughout the Caribbean
@@ -160,7 +160,7 @@ This conference will be a landmark event in the Caribbean, significantly contrib
 - OpenAI
 - Government of Guyana Innovation Department
 
-#### Costs
+## Costs
 - Conference Operation Costs (to come from Camille)
 - VR Headset(s) for Demonstrations of VR
 - Subscription costs for ChatGPT Pro and other tools
