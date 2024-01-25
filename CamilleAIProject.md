@@ -1,7 +1,7 @@
 # Project Concept: Camille Academy's AI Project
 
 ## Overview
-The Camille Academy's AI Project aims to position the academy as a leading institution in the Caribbean for integrating Artificial Intelligence into education. Building on the success of Guyana's first AI4Development (https://www.ai4devevent.org) conference, this project will not only enhance the educational experience but also align with the broader goals of fostering sustainable and tech-driven development in Guyana.
+The Camille Academy's AI Project aims to position the academy as a leading institution in the Caribbean for integrating Artificial Intelligence into education. Building on the success of Guyana's first AI4Development (https://www.ai4devent.org) conference, this project will not only enhance the educational experience but also align with the broader goals of fostering sustainable and tech-driven development in Guyana.
 
 ## Objectives
 1. **Development and Adoption:** Position Camille Academy as a pioneering institution in the Caribbean for the adoption of AI in education.
