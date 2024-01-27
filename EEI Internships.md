@@ -26,17 +26,17 @@ Georgetown, Guyana or remote
 
 ## **Positions Available**
 **1. Researchers** (various projects)
-	- Researching, reviewing and evaluating AI-powered tools that could help our audiences (especially EdTech and GovTech)
-	- Researching stakeholders to invite to a new AI4 Caribbean SDG Achievement community
-	- Researching all UN agencies, INGOs, foundations, development agencies, and development banks that operate or fund projects in the Caribbean
-	- Researching Investment Opportunities (e.g. VCs, Seed Investors, Accelerators, Incubators, Innovation Funds, etc.)
-	- Developing Network Graph / Mindmap for each Caribbean country that includes relevant stakeholders, funding opportunities, potential partnerships, programs to achieve the SDGs, AI stakeholders, etc.
-	- Identifying new grants to apply for
-	- Identifying new fundraising opportunities
-	- Building a comprehensive wiki/knowledgebase on key information important for our operations in the Caribbean
-	- Research Investment Opportunities (e.g. VCs, Seed Investors, Accelerators, Incubators, Innovation Funds, etc.) with a focus on deadlines in the next 2-months or open all year round
-	- Research Grant Opportunities (e.g. development banks, INGOs, government funds, UN agencies, etc.), either open ended funding or with a specific RFP/mandate posted, with a focus on deadlines in the next 2-months or open all year round
-	- Research Job Boards and Communities where we might find volunteers and staff for the project (e.g. job boards for Caribbean countries, job boards for our 32 identified audiences, and communities on LinkedIn, FB, Discord, etc. where our audiences spend time)
+- Researching, reviewing and evaluating AI-powered tools that could help our audiences (especially EdTech and GovTech)
+- Researching stakeholders to invite to a new AI4 Caribbean SDG Achievement community
+- Researching all UN agencies, INGOs, foundations, development agencies, and development banks that operate or fund projects in the Caribbean
+- Researching Investment Opportunities (e.g. VCs, Seed Investors, Accelerators, Incubators, Innovation Funds, etc.)
+- Developing Network Graph / Mindmap for each Caribbean country that includes relevant stakeholders, funding opportunities, potential partnerships, programs to achieve the SDGs, AI stakeholders, etc.
+- Identifying new grants to apply for
+- Identifying new fundraising opportunities
+- Building a comprehensive wiki/knowledgebase on key information important for our operations in the Caribbean
+- Research Investment Opportunities (e.g. VCs, Seed Investors, Accelerators, Incubators, Innovation Funds, etc.) with a focus on deadlines in the next 2-months or open all year round
+- Research Grant Opportunities (e.g. development banks, INGOs, government funds, UN agencies, etc.), either open ended funding or with a specific RFP/mandate posted, with a focus on deadlines in the next 2-months or open all year round
+- Research Job Boards and Communities where we might find volunteers and staff for the project (e.g. job boards for Caribbean countries, job boards for our 32 identified audiences, and communities on LinkedIn, FB, Discord, etc. where our audiences spend time)
 
 **2. Executive Assistant**
 - Support Senior Management.
